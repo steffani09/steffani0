@@ -1,2 +1,10 @@
-# steffani0
-"if you can't handle a heart like mine, don't waste your time with me."
+
+Boas vindas ao meu perfil 
+
+Meu nome é Steffani aparecida da Cruz Brito
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+Você pode entrar em contato comigo 📫
+00001087288630sp@al.educacao.sp.gov.br
